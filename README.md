@@ -1,4 +1,4 @@
-## Oii! Eu sou a Keila Sales 👽
+## Oi! Eu sou a Keila Sales 👽
 
 - 🌱 Estudando C, Java, JS e MySql
 
