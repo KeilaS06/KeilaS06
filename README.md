@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Keila Sales 👽
 
-- 🌱 Estudando C, Java, JS e MySql
+- 🌱 Estudando Python, Java, JS e MySql
 
 <div align="center">
   <a href="https://www.linkedin.com/in/keilasales/">
